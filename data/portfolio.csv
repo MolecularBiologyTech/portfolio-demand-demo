@@ -1,0 +1,11 @@
+molecule,modality,phase,launch_year,peak_batches,ramp_years
+MOL-A,mAb,Approved,2024,40,1
+MOL-B,mAb,Filed,2027,35,3
+MOL-C,ADC,Phase 3,2028,25,3
+MOL-D,mAb,Phase 3,2029,30,4
+MOL-E,Bispecific,Phase 2,2030,20,3
+MOL-F,mAb,Phase 2,2031,45,4
+MOL-G,ADC,Phase 2,2031,15,3
+MOL-H,mAb,Phase 1,2032,50,4
+MOL-I,Fusion protein,Phase 1,2033,30,3
+MOL-J,mAb,Preclinical,2034,60,5
